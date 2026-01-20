@@ -1,0 +1,5 @@
+This program generates a truth table for logical variables p and q.
+
+## How to run.
+~~~bash
+pthyon truth_table.py
